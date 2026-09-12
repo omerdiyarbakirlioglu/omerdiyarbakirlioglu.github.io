@@ -1,0 +1,2 @@
+# AdMob hesabı açılınca gerçek yayıncı satırı buraya gelecek, örn:
+# google.com, pub-XXXXXXXXXXXXXXXX, DIRECT, f08c47fec0942fa0
